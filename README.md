@@ -1,6 +1,10 @@
 <h1 align="center" style="background: linear-gradient(45deg, #1e3c72, #2a5298, #bc4e9c, #f80759); padding: 10px; color: aliceblue; border: 2px double white;"   >Hi 👋, I'm Ayush!</h1>
 <h3 align="center">A passionate data science and software engineering student!</h3>
 
+<p align = "center" >
+    <img src="https://avatars.githubusercontent.com/u/141166916?v=4" style="border-radius: 50%; width: 300px;height: 300px;" alt="">
+</p>
+
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=ayushkhaire&label=Profile%20views&color=0e75b6&style=flat"
@@ -235,9 +239,6 @@
     alt="ayushkhaire"
   />
 </p>
-
-<hr>
-
 
 <hr>
 
