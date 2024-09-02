@@ -37,7 +37,7 @@ data science** - 📫 How to reach me **codeeayush@gmail.com**
    <a href="https://github.com/AYUSHKHAIRE" target="blank"
     ><img
       align="center"
-      src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg](https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg)"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg](https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg"
       alt="ayushkhaire"
       height="30"
       width="40"
