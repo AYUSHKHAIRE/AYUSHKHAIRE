@@ -244,6 +244,6 @@
 
 <div >
   <p align="center" style="color: white;">
-    Thanks for visiting my profile! I'm passionate about data science and software engineering.
+    Thanks for visiting my profile! I'm passionate about data science and software engineering.God Bless you !
   </p>
 </div>
