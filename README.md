@@ -43,7 +43,7 @@
   <a href="https://github.com/AYUSHKHAIRE" target="blank">
     <img
       align="center"
-      src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCOSzabMLHpRMMuS289T6E0aC_ysnrhs6xrA&s"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCOSzabMLHpRMMuS289T6E0aC_ysnrhs6xrA&s"
       alt="ayushkhaire"
       height="30"
       width="40"
