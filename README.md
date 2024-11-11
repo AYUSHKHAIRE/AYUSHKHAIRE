@@ -31,6 +31,16 @@
       width="40"
     />
   </a>
+<a href="https://share.streamlit.io/user/ayushkhaire target="blank">
+    <img
+      align="center"
+      src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png"
+      alt="ayushkhaire"
+      height="30"
+      width="40"
+    />
+  </a>
+    
   <a href="https://kaggle.com/ayushkhaire" target="blank">
     <img
       align="center"
