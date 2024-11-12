@@ -38,7 +38,8 @@ I am a data science student, interested in data engineering, backend development
         <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-31-12.png" alt="Stocksly" width="200" style="border-radius: 5px;">
       </a>
       <p>A stock data provider API offering accurate and fast stock market data for developers and financial analysts.</p>
-      <a href="https://stocksly.onrender.com">Visit the live demo</a>
+      <a href="https://stocksly.onrender.com">Visit the live demo</a> 
+      <a href="https://github.com/AYUSHKHAIRE/stocksly">Visit the repository</a>
     </td>
     <td width="33%">
       <h3>Jobbylink</h3>
@@ -47,6 +48,7 @@ I am a data science student, interested in data engineering, backend development
       </a>
       <p>A job data analysis portal.</p>
       <a href="https://jobbylink.streamlit.app/">Visit the live demo</a>
+      <a href="https://github.com/AYUSHKHAIRE/jobbylink">Visit the repository</a>
     </td>
     <td width="33%">
       <h3>Google Play Store Analysis</h3>
@@ -55,6 +57,7 @@ I am a data science student, interested in data engineering, backend development
       </a>
       <p>Google Play analysis dashboard.</p>
       <a href="https://app-play-store-analysis-tpd-project.streamlit.app/">View Dashboard</a>
+      <a href="https://github.com/AYUSHKHAIRE/google-play-store-analysis">Visit the repository</a>
     </td>
   </tr>
 </table>
