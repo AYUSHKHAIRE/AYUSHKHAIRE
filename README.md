@@ -25,7 +25,7 @@ I am a data science student , intrested inn data engineering , backend , and web
 <div align="center">
 
 ### Stock Data Provider API - Stocksly
-[![Stocksly](img//Screenshot from 2024-11-12 14-31-12.png)](https://stocksly.onrender.com)  
+[![Stocksly](img/Screenshot from 2024-11-12 14-31-12.png)](https://stocksly.onrender.com)  
 A stock data provider API offering accurate and fast stock market data for developers and financial analysts.  
 Visit the live demo: [stocksly.onrender.com](https://stocksly.onrender.com)
 
