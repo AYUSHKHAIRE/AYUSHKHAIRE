@@ -24,15 +24,37 @@ I am a data science student , intrested inn data engineering , backend , and web
 
 <div align="center">
 
+<div align="center">
+
 ### Stock Data Provider API - Stocksly
 [![Stocksly](https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-31-12.png)](https://stocksly.onrender.com)  
 A stock data provider API offering accurate and fast stock market data for developers and financial analysts.  
 Visit the live demo: [stocksly.onrender.com](https://stocksly.onrender.com)
 
 ---
+### Jobs data analysis - jobbylink
+[![jobbylink](https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-30-29.png)](https://jobbylink.streamlit.app/)  
+A Job data analysis portal .  
+Visit the live demo: [jobbylink](https://jobbylink.streamlit.app/)
 
+---
+### Google play store analysis
+[![google play dashhboard](https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-31-12.png)](
+https://app-play-store-analysis-tpd-project.streamlit.app/)  
+Google pplay analysis dashboard .
+[google play dashboard](
+https://app-play-store-analysis-tpd-project.streamlit.app/)
+
+---
 </div>
 
+### Kaggle work 
+#### As a kaggler , I value open and clean data .
+[![Kaggle work](https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-28-53.png)](
+https://www.kaggle.com/ayushkhaire/datasets)  
+Kaggle datasets .
+[ayushkhaires Datasets](
+https://www.kaggle.com/ayushkhaire/datasets)
 
 
 ### 🔝 Top Contributed Repo
