@@ -53,7 +53,7 @@ I am a data science student, interested in data engineering, backend development
     <td width="33%">
       <h3>Google Play Store </h3>
       <a href="https://app-play-store-analysis-tpd-project.streamlit.app/">
-        <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-31-12.png" alt="Google Play Dashboard" width="200" style="border-radius: 5px;">
+        <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-30-03.png" alt="Google Play Dashboard" width="200" style="border-radius: 5px;">
       </a>
       <p>Google Play dashboard.</p>
       <a href="https://app-play-store-analysis-tpd-project.streamlit.app/">View Dashboard</a><br>
