@@ -19,6 +19,10 @@ I am a data science student , intrested inn data engineering , backend , and web
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSHKHAIRE&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" />
 </div>
 
+# My Projects
+
+<div align="center">
+
 ### My Projects
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
@@ -56,6 +60,15 @@ I am a data science student , intrested inn data engineering , backend , and web
 </div>
 
 </div>
+
+---
+
+### Kaggle Work
+#### As a Kaggler, I value open and clean data.
+<a href="https://www.kaggle.com/ayushkhaire/datasets">
+  <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-28-53.png" width="400px" alt="Kaggle work" style="border-radius: 5px;">
+</a>
+<p><a href="https://www.kaggle.com/ayushkhaire/datasets">Ayush Khaire's Datasets on Kaggle</a></p>
 
 ---
 
