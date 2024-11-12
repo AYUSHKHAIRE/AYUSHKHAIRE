@@ -61,6 +61,30 @@ I am a data science student, interested in data engineering, backend development
 
 </div>
 
+# 📁 My Kaggle work
+
+<div align="center">
+<table>
+  <tr>
+    <td width="45%">
+      <h3>Kaggle Datasets</h3>
+      <a href="https://www.kaggle.com/ayushkhaire/datasets">
+        <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-28-53.png" alt="kaggle datasets" width="" style="border-radius: 5px;">
+      </a>
+      <a href="https://www.kaggle.com/ayushkhaire/datasets">Visit datasets</a>
+    </td>
+    <td width="45%">
+      <h3>Kaggle Noteebooks</h3>
+      <a href="https://www.kaggle.com/ayushkhaire/code">
+        <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2015-22-28.png" alt="kaggle notebooks" width="" style="border-radius: 5px;">
+      </a>
+      <p>A job data analysis portal.</p>
+      <a href="https://www.kaggle.com/ayushkhaire/code">Visit Notebooks</a>
+    </td>
+  </tr>
+</table>
+
+</div>
 ---
 
 ### 🔝 Top Contributed Repo
