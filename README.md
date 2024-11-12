@@ -19,6 +19,21 @@ I am a data science student , intrested inn data engineering , backend , and web
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSHKHAIRE&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" />
 </div>
 
+# Projects:
+# 📈 Python Projects
+
+<div align="center">
+
+### Stock Data Provider API - Stocksly
+[![Stocksly](img//Screenshot from 2024-11-12 14-31-12.png)](https://stocksly.onrender.com)  
+A stock data provider API offering accurate and fast stock market data for developers and financial analysts.  
+Visit the live demo: [stocksly.onrender.com](https://stocksly.onrender.com)
+
+---
+
+</div>
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AYUSHKHAIRE&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
