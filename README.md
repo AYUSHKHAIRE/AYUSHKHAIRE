@@ -78,7 +78,6 @@ I am a data science student, interested in data engineering, backend development
       <a href="https://www.kaggle.com/ayushkhaire/code">
         <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2015-22-28.png" alt="kaggle notebooks" width="" style="border-radius: 5px;">
       </a>
-      <p>A job data analysis portal.</p>
       <a href="https://www.kaggle.com/ayushkhaire/code">Visit Notebooks</a>
     </td>
   </tr>
