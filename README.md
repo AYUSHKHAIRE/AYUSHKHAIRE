@@ -20,41 +20,50 @@ I am a data science student , intrested inn data engineering , backend , and web
 </div>
 
 # Projects:
-# 📈 Python Projects
-
 <div align="center">
 
-<div align="center">
+### My Projects
 
-### Stock Data Provider API - Stocksly
-[![Stocksly](https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-31-12.png)](https://stocksly.onrender.com)  
-A stock data provider API offering accurate and fast stock market data for developers and financial analysts.  
-Visit the live demo: [stocksly.onrender.com](https://stocksly.onrender.com)
+<table>
+  <tr>
+    <td align="center">
+      <h3>Stock Data Provider API - Stocksly</h3>
+      <a href="https://stocksly.onrender.com">
+        <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-31-12.png" width="300px" alt="Stocksly"/>
+      </a>
+      <p>A stock data provider API offering accurate and fast stock market data for developers and financial analysts.</p>
+      <a href="https://stocksly.onrender.com">Visit the live demo</a>
+    </td>
+    <td align="center">
+      <h3>Jobs Data Analysis - Jobbylink</h3>
+      <a href="https://jobbylink.streamlit.app/">
+        <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-30-29.png" width="300px" alt="Jobbylink"/>
+      </a>
+      <p>A Job data analysis portal.</p>
+      <a href="https://jobbylink.streamlit.app/">Visit the live demo</a>
+    </td>
+    <td align="center">
+      <h3>Google Play Store Analysis</h3>
+      <a href="https://app-play-store-analysis-tpd-project.streamlit.app/">
+        <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-31-12.png" width="300px" alt="Google Play Dashboard"/>
+      </a>
+      <p>Google Play analysis dashboard.</p>
+      <a href="https://app-play-store-analysis-tpd-project.streamlit.app/">Google Play Dashboard</a>
+    </td>
+  </tr>
+</table>
 
----
-### Jobs data analysis - jobbylink
-[![jobbylink](https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-30-29.png)](https://jobbylink.streamlit.app/)  
-A Job data analysis portal .  
-Visit the live demo: [jobbylink](https://jobbylink.streamlit.app/)
-
----
-### Google play store analysis
-[![google play dashhboard](https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-31-12.png)](
-https://app-play-store-analysis-tpd-project.streamlit.app/)  
-Google pplay analysis dashboard .
-[google play dashboard](
-https://app-play-store-analysis-tpd-project.streamlit.app/)
-
----
 </div>
 
-### Kaggle work 
-#### As a kaggler , I value open and clean data .
-[![Kaggle work](https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-28-53.png)](
-https://www.kaggle.com/ayushkhaire/datasets)  
-Kaggle datasets .
-[ayushkhaires Datasets](
-https://www.kaggle.com/ayushkhaire/datasets)
+---
+
+### Kaggle Work
+#### As a Kaggler, I value open and clean data.
+<a href="https://www.kaggle.com/ayushkhaire/datasets">
+  <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-28-53.png" width="400px" alt="Kaggle work"/>
+</a>
+<p>[Ayush Khaire's Datasets on Kaggle](https://www.kaggle.com/ayushkhaire/datasets)</p>
+
 
 
 ### 🔝 Top Contributed Repo
