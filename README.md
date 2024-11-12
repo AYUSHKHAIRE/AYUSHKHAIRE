@@ -37,7 +37,7 @@ I am a data science student, interested in data engineering, backend development
       <a href="https://stocksly.onrender.com">
         <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-31-12.png" alt="Stocksly" width="200" style="border-radius: 5px;">
       </a>
-      <p>A stock data provider API offering accurate and fast stock market data for developers and financial analysts.</p>
+      <p>A stock data provider API .</p>
       <a href="https://stocksly.onrender.com">Visit the live demo</a><br>
       <a href="https://github.com/AYUSHKHAIRE/stocksly">Visit the repository</a>
     </td>
