@@ -19,39 +19,41 @@ I am a data science student , intrested inn data engineering , backend , and web
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSHKHAIRE&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" />
 </div>
 
-# Projects:
-<div align="center">
-
 ### My Projects
 
-<table>
-  <tr>
-    <td align="center">
-      <h3>Stock Data Provider API - Stocksly</h3>
-      <a href="https://stocksly.onrender.com">
-        <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-31-12.png" width="300px" alt="Stocksly"/>
-      </a>
-      <p>A stock data provider API offering accurate and fast stock market data for developers and financial analysts.</p>
-      <a href="https://stocksly.onrender.com">Visit the live demo</a>
-    </td>
-    <td align="center">
-      <h3>Jobs Data Analysis - Jobbylink</h3>
-      <a href="https://jobbylink.streamlit.app/">
-        <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-30-29.png" width="300px" alt="Jobbylink"/>
-      </a>
-      <p>A Job data analysis portal.</p>
-      <a href="https://jobbylink.streamlit.app/">Visit the live demo</a>
-    </td>
-    <td align="center">
-      <h3>Google Play Store Analysis</h3>
-      <a href="https://app-play-store-analysis-tpd-project.streamlit.app/">
-        <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-31-12.png" width="300px" alt="Google Play Dashboard"/>
-      </a>
-      <p>Google Play analysis dashboard.</p>
-      <a href="https://app-play-store-analysis-tpd-project.streamlit.app/">Google Play Dashboard</a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+
+  <!-- Stock Data Provider API - Stocksly -->
+  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #ddd; padding: 15px; border-radius: 8px;">
+    <h3>Stock Data Provider API - Stocksly</h3>
+    <a href="https://stocksly.onrender.com">
+      <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-31-12.png" alt="Stocksly" style="width: 100%; height: auto; border-radius: 5px;">
+    </a>
+    <p>A stock data provider API offering accurate and fast stock market data for developers and financial analysts.</p>
+    <a href="https://stocksly.onrender.com">Visit the live demo</a>
+  </div>
+
+  <!-- Jobs Data Analysis - Jobbylink -->
+  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #ddd; padding: 15px; border-radius: 8px;">
+    <h3>Jobs Data Analysis - Jobbylink</h3>
+    <a href="https://jobbylink.streamlit.app/">
+      <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-30-29.png" alt="Jobbylink" style="width: 100%; height: auto; border-radius: 5px;">
+    </a>
+    <p>A Job data analysis portal.</p>
+    <a href="https://jobbylink.streamlit.app/">Visit the live demo</a>
+  </div>
+
+  <!-- Google Play Store Analysis -->
+  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #ddd; padding: 15px; border-radius: 8px;">
+    <h3>Google Play Store Analysis</h3>
+    <a href="https://app-play-store-analysis-tpd-project.streamlit.app/">
+      <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-31-12.png" alt="Google Play Dashboard" style="width: 100%; height: auto; border-radius: 5px;">
+    </a>
+    <p>Google Play analysis dashboard.</p>
+    <a href="https://app-play-store-analysis-tpd-project.streamlit.app/">Google Play Dashboard</a>
+  </div>
+
+</div>
 
 </div>
 
@@ -60,9 +62,9 @@ I am a data science student , intrested inn data engineering , backend , and web
 ### Kaggle Work
 #### As a Kaggler, I value open and clean data.
 <a href="https://www.kaggle.com/ayushkhaire/datasets">
-  <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-28-53.png" width="400px" alt="Kaggle work"/>
+  <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-28-53.png" width="400px" alt="Kaggle work" style="border-radius: 5px;">
 </a>
-<p>[Ayush Khaire's Datasets on Kaggle](https://www.kaggle.com/ayushkhaire/datasets)</p>
+<p><a href="https://www.kaggle.com/ayushkhaire/datasets">Ayush Khaire's Datasets on Kaggle</a></p>
 
 
 
