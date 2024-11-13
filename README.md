@@ -15,7 +15,7 @@ I am a data science student, interested in data engineering, backend development
 <div align="center">
   <table>
   <tr>
-![](https://github-contributor-stats.vercel.app/api?username=AYUSHKHAIRE&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+    <td><img src="https://github-contributor-stats.vercel.app/api?username=AYUSHKHAIRE&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" width="350"/></td>
 <tr/>
 
 [![](https://visitcount.itsvg.in/api?id=AYUSHKHAIRE&icon=1&color=1)](https://visitcount.itsvg.in)
