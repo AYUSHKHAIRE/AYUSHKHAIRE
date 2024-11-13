@@ -14,8 +14,15 @@ I am a data science student, interested in data engineering, backend development
 # 📊 GitHub Stats:
 <div align="center">
   <table>
+  <tr>
+![](https://github-contributor-stats.vercel.app/api?username=AYUSHKHAIRE&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+<tr/>
+
+[![](https://visitcount.itsvg.in/api?id=AYUSHKHAIRE&icon=1&color=1)](https://visitcount.itsvg.in)
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=AYUSHKHAIRE&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="350"/></td>
+    </tr>
+    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=AYUSHKHAIRE&theme=dark&hide_border=true" width="350"/></td>
     </tr>
     <tr>
@@ -32,7 +39,6 @@ I am a data science student, interested in data engineering, backend development
 
 <table>
   <tr>
-    <td width="33%">
       <h3>Stocksly API</h3>
       <a href="https://stocksly.onrender.com">
         <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-31-12.png" alt="Stocksly" width="200" style="border-radius: 5px;">
@@ -40,8 +46,6 @@ I am a data science student, interested in data engineering, backend development
       <p>A stock data provider API .</p>
       <a href="https://stocksly.onrender.com">Visit the live demo</a><br>
       <a href="https://github.com/AYUSHKHAIRE/stocksly">Visit the repository</a>
-    </td>
-    <td width="33%">
       <h3>Jobbylink</h3>
       <a href="https://jobbylink.streamlit.app/">
         <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-30-29.png" alt="Jobbylink" width="200" style="border-radius: 5px;">
@@ -49,8 +53,6 @@ I am a data science student, interested in data engineering, backend development
       <p>A job data analysis portal.</p>
       <a href="https://jobbylink.streamlit.app/">Visit the live demo</a><br>
       <a href="https://github.com/AYUSHKHAIRE/jobbylink">Visit the repository</a>
-    </td>
-    <td width="33%">
       <h3>Google Play Store </h3>
       <a href="https://app-play-store-analysis-tpd-project.streamlit.app/">
         <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-30-03.png" alt="Google Play Dashboard" width="200" style="border-radius: 5px;">
@@ -58,7 +60,6 @@ I am a data science student, interested in data engineering, backend development
       <p>Google Play dashboard.</p>
       <a href="https://app-play-store-analysis-tpd-project.streamlit.app/">View Dashboard</a><br>
       <a href="https://github.com/AYUSHKHAIRE/google-play-store-analysis">Visit the repository</a>
-    </td>
   </tr>
 </table>
 
@@ -69,29 +70,18 @@ I am a data science student, interested in data engineering, backend development
 <div align="center">
 <table>
   <tr>
-    <td width="45%">
       <h3>Kaggle Datasets</h3>
       <a href="https://www.kaggle.com/ayushkhaire/datasets">
         <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-28-53.png" alt="kaggle datasets" width="" style="border-radius: 5px;">
       </a>
       <a href="https://www.kaggle.com/ayushkhaire/datasets">Visit datasets</a>
-    </td>
-    <td width="45%">
       <h3>Kaggle Noteebooks</h3>
       <a href="https://www.kaggle.com/ayushkhaire/code">
         <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2015-22-28.png" alt="kaggle notebooks" width="" style="border-radius: 5px;">
       </a>
       <a href="https://www.kaggle.com/ayushkhaire/code">Visit Notebooks</a>
-    </td>
   </tr>
 </table>
 
 </div>
----
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AYUSHKHAIRE&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=AYUSHKHAIRE&icon=1&color=1)](https://visitcount.itsvg.in)
