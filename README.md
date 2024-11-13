@@ -41,21 +41,21 @@ I am a data science student, interested in data engineering, backend development
   <tr>
       <h3>Stocksly API</h3>
       <a href="https://stocksly.onrender.com">
-        <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-31-12.png" alt="Stocksly" width="200" style="border-radius: 5px;">
+        <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-31-12.png" alt="Stocksly" width="80%" style="border-radius: 5px;">
       </a>
       <p>A stock data provider API .</p>
       <a href="https://stocksly.onrender.com">Visit the live demo</a><br>
       <a href="https://github.com/AYUSHKHAIRE/stocksly">Visit the repository</a>
       <h3>Jobbylink</h3>
       <a href="https://jobbylink.streamlit.app/">
-        <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-30-29.png" alt="Jobbylink" width="200" style="border-radius: 5px;">
+        <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-30-29.png" alt="Jobbylink" width="80%" style="border-radius: 5px;">
       </a>
       <p>A job data analysis portal.</p>
       <a href="https://jobbylink.streamlit.app/">Visit the live demo</a><br>
       <a href="https://github.com/AYUSHKHAIRE/jobbylink">Visit the repository</a>
       <h3>Google Play Store </h3>
       <a href="https://app-play-store-analysis-tpd-project.streamlit.app/">
-        <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-30-03.png" alt="Google Play Dashboard" width="200" style="border-radius: 5px;">
+        <img src="https://github.com/AYUSHKHAIRE/AYUSHKHAIRE/blob/main/img/Screenshot%20from%202024-11-12%2014-30-03.png" alt="Google Play Dashboard" width="80%" style="border-radius: 5px;">
       </a>
       <p>Google Play dashboard.</p>
       <a href="https://app-play-store-analysis-tpd-project.streamlit.app/">View Dashboard</a><br>
