@@ -1,6 +1,10 @@
 # 💫 About Me:
 I am a data science student, interested in data engineering, backend development, and web scraping, focusing on providing quality data.
 
+<hr>
+<hr>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushkhaire) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ayushkhaire) 
@@ -8,8 +12,16 @@ I am a data science student, interested in data engineering, backend development
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/AYUSHKHAIRE) 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://share.streamlit.io/user/ayushkhaire)
 
+<hr>
+<hr>
+
+
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+<hr>
+<hr>
+
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -31,11 +43,17 @@ I am a data science student, interested in data engineering, backend development
   </table>
 </div>
 
+<br>
+<br>
+
+<hr>
+<hr>
+
+
 # 📁 My Projects
 
 <div align="center">
 
-### Featured Projects
 
 <table>
   <tr>
@@ -62,8 +80,15 @@ I am a data science student, interested in data engineering, backend development
       <a href="https://github.com/AYUSHKHAIRE/google-play-store-analysis">Visit the repository</a>
   </tr>
 </table>
-
 </div>
+
+<br>
+<br>
+
+
+
+<hr>
+<hr>
 
 # 📁 My Kaggle work
 
@@ -85,3 +110,8 @@ I am a data science student, interested in data engineering, backend development
 
 </div>
 
+<br>
+<br>
+
+<hr>
+<hr>
