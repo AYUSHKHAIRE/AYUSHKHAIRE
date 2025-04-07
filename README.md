@@ -1,30 +1,24 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
-<p align="center">
-  <a href="https://linkedin.com/in/ayushkhaire">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/ayushkhaire_x">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@ayushkhaire_dev">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
-  </a>
-  <a href="mailto:codeeayush@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-    <a href="https://kaggle.com/ayushkhaire">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/ayushkhaire">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+<a href="https://linkedin.com/in/ayushkhaire">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="height: 28px;" />
 </a>
-
+<a href="https://x.com/ayushkhaire_x">
+  <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" style="height: 28px;" />
+</a>
+<a href="https://youtube.com/@ayushkhaire_dev">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" style="height: 28px;" />
+</a>
+<a href="mailto:codeeayush@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" style="height: 28px;" />
+</a>
+<a href="https://kaggle.com/ayushkhaire">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" style="height: 28px;" />
+</a>
 <a href="https://huggingface.co/ayushkhaire">
-  <img src="https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/HuggingFace-%23FFD21F?logo=huggingface&logoColor=black" style="height: 28px;" />
 </a>
 
-</p>
 
 ---
 
