@@ -24,8 +24,8 @@
 ---
 <h2 align="center">📄 My Resume</h2>
 <p align="center">
-  <a href="https://drive.google.com/file/d/1JmBI3HrBRg9l-6YSEX7nd9_synOzCoMG/view" target="_blank">View Resume</a> |
-  <a href="https://drive.usercontent.google.com/u/0/uc?id=1JmBI3HrBRg9l-6YSEX7nd9_synOzCoMG&export=download" target="_blank">Download Resume</a>
+  <a href="https://drive.google.com/file/d/1kVqSoZwHPVSKi6pIbAMWtjpq_kxlJQ_c/view?usp=sharing" target="_blank">View My Resume</a> |
+  <a href="https://drive.usercontent.google.com/u/0/uc?id=1kVqSoZwHPVSKi6pIbAMWtjpq_kxlJQ_c&export=download" target="_blank">Download My Resume</a>
 </p>
 
 ---
