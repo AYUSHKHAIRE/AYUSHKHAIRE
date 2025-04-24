@@ -63,6 +63,9 @@
   <img src="https://img.shields.io/badge/Apache%20Cassandra-%231287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-EA1B22?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
 </p>
 
 ---
