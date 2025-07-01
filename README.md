@@ -24,6 +24,7 @@
 ---
 <h2 align="center">📄 My Resume</h2>
 <p align="center">
+  <a href="https://ayushkhaire.site" target="_blank">View My Portfolio</a> |
   <a href="https://drive.google.com/file/d/1kVqSoZwHPVSKi6pIbAMWtjpq_kxlJQ_c/view?usp=sharing" target="_blank">View My Resume</a> |
   <a href="https://drive.usercontent.google.com/u/0/uc?id=1kVqSoZwHPVSKi6pIbAMWtjpq_kxlJQ_c&export=download" target="_blank">Download My Resume</a>
 </p>
