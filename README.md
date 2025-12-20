@@ -24,8 +24,8 @@
 ---
 <h2 align="center">📄 My Resume</h2>
 <p align="center">
-  <a href="https://ayushkhaire.site" target="_blank">View My Portfolio</a> |
-  <a href="https://drive.google.com/file/d/1q8i4DGo6vXXM8S6xZ6CF_0F4hpGVkt2y/view" target="_blank">View My Resume</a> |
+  <a href="https://ayushkhaire.dev" target="_blank">View My Portfolio</a> |
+  <a href="https://www.canva.com/design/DAGtP8FFP2M/n9N1fz1gwO8bbR_VSgzEMQ/edit?utm_content=DAGtP8FFP2M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">View My Resume</a>
 </p>
 
 ---
