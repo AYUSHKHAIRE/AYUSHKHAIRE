@@ -4,7 +4,7 @@
   <a href="https://linkedin.com/in/ayushkhaire">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="height: 28px;" />
   </a>
-  <a href="https://x.com/ayushkhaire_x">
+  <a href="https://x.com/ayushkhaire_dev">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" style="height: 28px;" />
   </a>
   <a href="https://youtube.com/@ayushkhaire_dev">
